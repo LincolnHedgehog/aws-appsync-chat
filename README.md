@@ -4,6 +4,11 @@
 
 Real-Time Offline Ready Chat App written with GraphQL, AWS AppSync, & AWS Amplify
 
+## Amplify console deploy button 
+
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/LincolnHedgehog/repository)
+
+
 ## Features
 
 - User management
